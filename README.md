@@ -22,6 +22,7 @@ subgraph Image Processing
 end
 
 subgraph KNearest
+	X[训练集]
 	K[K最近邻分类器]
 end
 
@@ -35,6 +36,7 @@ end
 	E-->K-->F
 	A-->O
 	F-->O
+	X-->K
 ```
 
 
@@ -45,7 +47,6 @@ end
   <img src="figures/13.jpg" width=45%>
 <img src="figures/13o.jpg" width=45%>
 </div>
-
 
 
 
