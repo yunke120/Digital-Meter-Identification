@@ -1,5 +1,19 @@
-# Digital-Meter-Identification
-数字电表识别(传统方法)
+<h1 align="center">Welcome to Digital-Meter-Identification 👋</h1>
+<p align="center">
+   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/yunke120/Digital-Meter-Identification#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/yunke120/Digital-Meter-Identification/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/yunke120/Digital-Meter-Identification/blob/master/LICENSE" target="_blank">
+    <img alt="License: Apache 2.0" src="https://img.shields.io/github/license/yunke120/Digital-Meter-Identification" />
+  </a>
+</p>
+
+
+> 数字电表识别(传统方式)
 
 ## 算法流程
 
@@ -41,13 +55,30 @@ end
 
 
 
-## 结果展示
+## 识别结果
 
-<div>
+<div align="center">
   <img src="figures/13.jpg" width=45%>
 <img src="figures/13o.jpg" width=45%>
 </div>
 
 
+## Author
 
+👤 **yunke120**
 
+* Website: https://yunke120.gitee.io/
+* Github: [@yunke120](https://github.com/yunke120)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yunke120/Digital-Meter-Identification/issues). You can also take a look at the [contributing guide](https://github.com/yunke120/Digital-Meter-Identification/blob/master/CONTRIBUTING.md).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2023 [yunke120](https://github.com/yunke120).<br />
+This project is [Apache 2.0](https://github.com/yunke120/Digital-Meter-Identification/blob/master/LICENSE) licensed.
